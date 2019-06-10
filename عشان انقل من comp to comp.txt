@@ -1,0 +1,1 @@
+this.$router.push({path: '/file/' + file.path , query: {token: localStorage.getItem('jwt-token')} })

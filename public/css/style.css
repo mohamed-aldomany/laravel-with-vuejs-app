@@ -1,0 +1,9 @@
+.widget-user-header {
+  background: url("/img/bg.jpg") center center;
+  height: 300px !important;
+}
+
+.widget-user .widget-user-image > img {
+  width: 200px;
+}
+
